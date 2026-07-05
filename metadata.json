@@ -1,0 +1,5 @@
+{
+  "name": "Barangay QR Attendance System",
+  "description": "A QR code-based attendance monitoring system for barangay assemblies, featuring real-time scanning and attendance tracking.",
+  "requestFramePermissions": ["camera"]
+}
